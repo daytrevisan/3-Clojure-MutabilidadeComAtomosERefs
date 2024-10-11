@@ -16,3 +16,8 @@
 ### Aula 3 - Atoms and Retries
 * Maps;
 * Grouping
+
+### Aula 4 - Partials and Refactoring
+* Sorting, reverse, pure function logic;
+* First, second, nth, get in list, take;
+* Some
