@@ -21,3 +21,8 @@
 * Sorting, reverse, pure function logic;
 * First, second, nth, get in list, take;
 * Some
+
+### Aula 5 - Functions with more complex effects
+* Keep, filter and infinite sequences;
+* Lazy and eager;
+* Keep
