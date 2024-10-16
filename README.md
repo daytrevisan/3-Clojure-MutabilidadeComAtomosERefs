@@ -26,3 +26,9 @@
 * Keep, filter and infinite sequences;
 * Lazy and eager;
 * Keep
+
+### Aula 6 - Refs and Dosyncs
+* References, ref-set and alter;
+* Refs and atoms;
+* Transfers and synchronization blocks;
+* Ensure function
